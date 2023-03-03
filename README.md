@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este é o meu portfólio com os meus principais projetos.
+Este é o portfólio com os meus principais projetos.
 
 ## Tecnologias
 
